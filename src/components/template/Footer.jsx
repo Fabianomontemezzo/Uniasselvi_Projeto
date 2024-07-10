@@ -5,6 +5,6 @@ import React from 'react'
 export default props =>
     <footer className="footer">
         <span>
-            Desenvolvido por <strong> Douglas, Fabiano, Gabriel e Leticia</strong>
+            Desenvolvido por <strong> Fabianom Montemezzo</strong>
         </span>
     </footer>
